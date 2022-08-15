@@ -1,0 +1,43 @@
+.layout1
+{
+    /* overflow: hidden;
+    margin: 0;
+    height: 100%;
+    padding: 0;
+    background-color: #a4b0be; */
+    text-align: center;
+    background-image: url(images/background1.jpg) ;
+    width: 105%;
+    height: 910px;
+    background-position: center center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+.layout-image
+{
+    
+    max-width: 100%;
+}
+img
+{
+    width: 23rem;
+    height: 23rem;
+    object-fit: cover;
+    object-position: bottom;
+    margin: 0 auto;
+    display: inline;
+    margin-top: 14rem;
+    margin-bottom: 22rem;
+
+}
+.box
+{
+    width: 6rem;
+    height: 2rem;
+    background-color: #B53471;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: -21.5rem;
+    
+}
