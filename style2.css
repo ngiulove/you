@@ -182,6 +182,10 @@ footer {
 .album
 {
     text-align: center;
+    list-style: none;
+    font-size: 8px;
 }
-
+a{
+    text-decoration: none;
+}
 
